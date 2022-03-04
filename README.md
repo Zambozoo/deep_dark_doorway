@@ -1,4 +1,4 @@
-# deep_dark_doorway
+# Deep Dark Doorway Data and Resource Packs
 A Minecraft Data and Resource Pack that adds the Warden Heart item and Reinforced Deepslate functionality.
 
 Use Reinforced Deepslate, Lodestone, and Warden Hearts to create Deep Dark Doorways to teleport quickly across the overworld!
