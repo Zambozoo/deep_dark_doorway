@@ -1,4 +1,6 @@
 # Deep Dark Doorway Data and Resource Packs
+See the [Reddit Post](https://www.reddit.com/r/MinecraftCommands/comments/t6ruk6/added_a_warden_drop_to_activate_a_reinforced/).
+
 A Minecraft Data and Resource Pack that adds the Warden Heart item and Reinforced Deepslate functionality.
 
 Use Reinforced Deepslate, Lodestone, and Warden Hearts to create Deep Dark Doorways to teleport quickly across the overworld!
