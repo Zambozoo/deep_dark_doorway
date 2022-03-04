@@ -4,6 +4,8 @@ A Minecraft Data and Resource Pack that adds the Warden Heart item and Reinforce
 Use Reinforced Deepslate, Lodestone, and Warden Hearts to create Deep Dark Doorways to teleport quickly across the overworld!
 
 # Installation
+Download the repository zip file and extract the Data and Resource Pack zip files.
+
 Drop the Data Pack Zip directly into your `.minecraft/saves/<WORLD_NAME>/datapacks/` folder for whichever world you want.
 
 Place the Resource Pack Zip directly into your `.minecraft/resourcepacks/` folder.
